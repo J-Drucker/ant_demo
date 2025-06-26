@@ -1,0 +1,9 @@
+code,description
+50,exp_start
+51,exp_stop
+1,frequent
+2,rare
+3,eyes_open_start
+4,eyes_open_stop
+5,eyes_closed_start
+6,eyes_closed_stop
